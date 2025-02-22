@@ -33,9 +33,9 @@
 
 
 <!-- SHORT DESCRIPTION -->
-<h5 align="center">
+<h4 align="center">
   Write a short description of your project.
-</h5>
+</h4>
 <br />
 
 
