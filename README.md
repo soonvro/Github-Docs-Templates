@@ -190,21 +190,6 @@ Cloud Platforms:
 2. **Explain the folder structure**: Provide a quick overview of how files and directories are organized and why.
 3. **Include diagrams if helpful**: Visuals can clarify complex relationships.
 
-Example (replace with your own):
-
-```
-project-root/
-├─ src/
-│  ├─ components/
-│  │  ├─ Header.js
-│  │  └─ Footer.js
-│  ├─ pages/
-│  └─ utils/
-├─ public/
-├─ package.json
-└─ README.md
-```
-
 Brief explanation of how modules communicate or the flow of data.
 
 <p align="right"><a href="#readme-top">▲ back to top</a></p>
