@@ -269,7 +269,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/soonvro/Github-Docs-Templates/stargazers
 [issues-shield]: https://img.shields.io/github/issues/soonvro/Github-Docs-Templates.svg?style=for-the-badge
 [issues-url]: https://github.com/soonvro/Github-Docs-Templates/issues
-[license-shield]: https://img.shields.io/github/license/soonvro/Github-Docs-Templates.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/soonvro/Github-Docs-Templates?label=license&style=for-the-badge
 [license-url]: https://github.com/soonvro/Github-Docs-Templates/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/soonhyung-kwon-aa4331351/
